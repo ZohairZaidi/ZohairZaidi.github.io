@@ -21,7 +21,7 @@
         jobTitle: "Data Engineering Intern @",
         duration: "MAY 2023 - SEP 2023",
         desc: [
-          "Oversaw a team of 6 to develop a mobile application for psychologists to study the effects of social media on the client.",
+          "Built a comprehensive dashboard using Power BI, incorporating various data sources and visualizations to provide actionable insights to stakeholders.",
           "Maintained project authority at all stages including project build, delivery, status, budget tracking and delegation of tasks including end to end development.",
           "Set and met 100% of project deadlines and coordinated with engineering manager, stakeholders and client to improve the project while ensuring team was properly resourced."
         ]
