@@ -22,7 +22,7 @@
         duration: "MAY 2023 - SEP 2023",
         desc: [
           "Built a comprehensive dashboard using Power BI, incorporating various data sources and visualizations to provide actionable insights to stakeholders.",
-          "Maintained project authority at all stages including project build, delivery, status, budget tracking and delegation of tasks including end to end development.",
+          "Implemented SQL queries to extract and aggregate data from relational databases, enabling real-time data updates in the dashboard and providing up-to-date information for stakeholders.",
           "Set and met 100% of project deadlines and coordinated with engineering manager, stakeholders and client to improve the project while ensuring team was properly resourced."
         ]
       }
