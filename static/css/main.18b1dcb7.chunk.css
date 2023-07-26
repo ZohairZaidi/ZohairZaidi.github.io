@@ -4,10 +4,11 @@ body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","
 
 
 /*background*/
---navy:#F7EFe7;
+--navy:#212F3D ;
+/*7EFe7;*/
 
 /* project background */
---light-navy:#Bfb0A0;
+--light-navy:#34495E;
 
 
 --lightest-navy:#D0D0C4;
@@ -15,19 +16,19 @@ body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","
 --navy-shadow:#4E4350;
 
 /*Text*/
---slate:#393939;
+--slate:#FDFEFE;
 
 
 --light-slate:#4E4350;
 
 /*other text*/
---lightest-slate:#FF5001;
+--lightest-slate:#58D68D;
 
 
 --white:#e6f1ff;
 
 /*bold text */
---green-bright:#F37A1F;
+--green-bright:#58D68D;
 
 
 --green-tint:#D0D0C4;
