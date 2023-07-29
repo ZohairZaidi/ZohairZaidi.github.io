@@ -37,7 +37,7 @@ return i.a.createElement("div",{className:e.root},i.a.createElement(x.a,{orienta
       var e = {
         "Visonary Dialog": {
           title: "VisionaryDialog",
-          desc: "A program for depth analysis of an image utilizing Microsoft Azure Cognitive Services.",
+          desc: "An innovative web application developed to facilitate engaging conversations about images through an interactive chatbot interface.",
           techStack: "Python, Streamlit, LangChain, OpenAI",
           link: "https://github.com/ZohairZaidi/VisionaryDialog",
           image: "/assets/nomansland.png"
