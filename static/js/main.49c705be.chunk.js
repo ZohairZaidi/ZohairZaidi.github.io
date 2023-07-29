@@ -35,10 +35,10 @@ return i.a.createElement("div",{className:e.root},i.a.createElement(x.a,{orienta
     key: "render",
     value: function () {
       var e = {
-        "Detectit": {
-          title: "Detectit",
+        "Visonary Dialog": {
+          title: "VisionaryDialog",
           desc: "A program for depth analysis of an image utilizing Microsoft Azure Cognitive Services.",
-          techStack: "Python, Azure Cognitive Services",
+          techStack: "Python, Streamlit, LangChain, ",
           link: "https://github.com/ZohairZaidi/Detectit",
           image: "/assets/nomansland.png"
         }
@@ -71,6 +71,13 @@ return i.a.createElement("div",{className:e.root},i.a.createElement(x.a,{orienta
           techStack: "C Programming",
           link: "https://github.com/ZohairZaidi/Reversi-Artificial-Intelligence-Bot",
           open: ""
+        },
+        "Detectit": {
+          title: "Detectit",
+          desc: "A program for depth analysis of an image utilizing Microsoft Azure Cognitive Services.",
+          techStack: "Python, Azure Cognitive Services",
+          link: "https://github.com/ZohairZaidi/Detectit",
+          image: "/assets/nomansland.png"
         }
       };
  
