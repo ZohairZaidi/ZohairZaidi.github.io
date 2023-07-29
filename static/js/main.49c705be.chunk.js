@@ -38,8 +38,8 @@ return i.a.createElement("div",{className:e.root},i.a.createElement(x.a,{orienta
         "Visonary Dialog": {
           title: "VisionaryDialog",
           desc: "A program for depth analysis of an image utilizing Microsoft Azure Cognitive Services.",
-          techStack: "Python, Streamlit, LangChain, OpenAI ",
-          link: "https://github.com/ZohairZaidi/Detectit",
+          techStack: "Python, Streamlit, LangChain, OpenAI",
+          link: "https://github.com/ZohairZaidi/VisionaryDialog",
           image: "/assets/nomansland.png"
         }
       };
