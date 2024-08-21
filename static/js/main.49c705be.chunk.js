@@ -13,7 +13,6 @@
         duration: "MAY 2022 - SEP 2022",
         desc: [
           "Developed and optimized a machine learning model for precise 2D and 3D pose estimation, enhancing the accuracy and efficiency of motor performance tracking in patients with neurological injuries.",
-          "Developed a machine learning model using TensorFlow achieving 97% accuracy in coordinate prediction of subject and streamlined existing Python code architectures to expedite the training process, reducing training time by 20%.",
           "Streamlined Python codebase to improve model training workflows, reducing training time by 20% while maintaining high accuracy in coordinate prediction across diverse datasets."
         ]
       },
@@ -21,9 +20,23 @@
         jobTitle: "Data Engineering Intern @",
         duration: "MAY 2023 - SEP 2023",
         desc: [
-          "Built a comprehensive dashboard using Power BI, incorporating various data sources and visualizations to provide actionable insights to stakeholders.",
-          "Implemented SQL queries to extract and aggregate data from relational databases, enabling real-time data updates in the dashboard and providing up-to-date information for stakeholders.",
-          "Set and met 100% of project deadlines and coordinated with engineering manager, stakeholders and client to improve the project while ensuring team was properly resourced."
+          "Developed a comprehensive Power BI dashboard to track departmental KPIs for directors’ meetings, aggregating data from diverse sources to provide executives with real-time, actionable insights.",
+          "Automated complex data extraction and transformation using SQL and PowerQuery, reducing processing time by 20%.",
+        ]
+      },
+      "Workplace Safety Insurance Board": {
+        jobTitle: "Data Engineering Intern @",
+        duration: "MAY 2024 - SEP 2024",
+        desc: [
+          "Backed up legacy company data stored in IBM’s Lotus Notes by utilizing .NET to interface with the Lotus Notes API and LotusScript, ensuring secure and efficient data preservation.",
+          "Automated data extraction and backup processes using .NET and LotusScript, reducing manual effort and minimizing the risk of data loss during migration.",
+        ]
+      },
+      "University of Toronto (Prof. Vaughn Betz)": {
+        jobTitle: "FPGA Researcher - Verilog To Routing @",
+        duration: "SEP 2024 - Present",
+        desc: [
+          "Enhanced C/C++ proficiency working in a large open source codebase, optimizing chip block search",
         ]
       }
     };
