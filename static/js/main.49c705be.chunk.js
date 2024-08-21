@@ -8,13 +8,13 @@
     var r = a[1];
     
     var c = {
-      "University of Toronto": {
-        jobTitle: "Machine Learning Researcher @",
+      "X – Lab at University of Toronto (Prof. Xilin Liu)": {
+        jobTitle: "Machine Learning Researcher - Brain Machine Interfaces @",
         duration: "MAY 2022 - SEP 2022",
         desc: [
-          "Led a project analyzing direct pose estimation using brain machine interfaces to track motor performance of patients suffering from neurological injuries.",
+          "Developed and optimized a machine learning model for precise 2D and 3D pose estimation, enhancing the accuracy and efficiency of motor performance tracking in patients with neurological injuries.",
           "Developed a machine learning model using TensorFlow achieving 97% accuracy in coordinate prediction of subject and streamlined existing Python code architectures to expedite the training process, reducing training time by 20%.",
-          "Optimized Convolutional Neural Networks architecture for precise pose estimation of test subjects, achieving precise tracking accuracy through experimentation on a dataset of over 100,000 frames."
+          "Streamlined Python codebase to improve model training workflows, reducing training time by 20% while maintaining high accuracy in coordinate prediction across diverse datasets."
         ]
       },
       "Workplace Safety Insurance Board": {
