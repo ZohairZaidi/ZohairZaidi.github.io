@@ -28,15 +28,16 @@
         jobTitle: "Data Engineering Intern @",
         duration: "MAY 2024 - SEP 2024",
         desc: [
-          "Backed up legacy company data stored in IBM’s Lotus Notes by utilizing .NET to interface with the Lotus Notes API and LotusScript, ensuring secure and efficient data preservation.",
-          "Automated data extraction and backup processes using .NET and LotusScript, reducing manual effort and minimizing the risk of data loss during migration.",
+          "Designed and implemented a .NET solution interfacing with IBM’s Lotus Notes API and LotusScript, securely backing up over 450,000 legacy records.",
+          "Automated data extraction and backup workflows, reducing manual workload and cutting data migration time by 70%, significantly enhancing overall data handling efficiency.",
         ]
       },
       "University of Toronto (Prof. Vaughn Betz)": {
         jobTitle: "FPGA Researcher - Verilog To Routing @",
         duration: "SEP 2024 - Present",
         desc: [
-          "Enhanced C/C++ proficiency working in a large open source codebase, optimizing chip block search",
+          "Enhancing C/C++ proficiency by working in a large open-source codebase",
+          "Developing new visualization tools, improving existing algorithms, and enhancing overall efficiency"
         ]
       }
     };
